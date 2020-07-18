@@ -3,7 +3,14 @@ package munje.objectArray;
 import java.util.Scanner;
 
 public class StudentArray {
-
+/*	1. 최대 10명의 학생 정보를 기록할 수 있게 배열 할당함
+	2. 학생 정보가 한명씩 추가될 때 마다 카운트함
+	=> while() 문 사용함
+	계속 추가할 것인지 물어보고, 대소문자 상관없이 'y'이면
+	계속 객체 추가하고 키보드로 값 입력받아 기록함.
+	3. 키보드로 학생 정보를 반복적으로 입력받아, 각 객체에 저장함
+	5. 현재 기록된 학생들의 정보를 출력 (information 메소드 사용) + 학생평균점수출력*/
+	
 	public static void main(String[] args) {
 	
 			Student[] srr = new Student[10];
