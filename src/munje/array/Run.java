@@ -1,4 +1,4 @@
-package munje;
+package munje.array;
 
 public class Run {
 	public static void main(String[] args) {
