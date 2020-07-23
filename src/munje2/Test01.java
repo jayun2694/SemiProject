@@ -1,6 +1,6 @@
 package munje2;
 
-public class Test1 {
+public class Test01 {
 	
 /*	- main 함수 안에서 모든 코드 작업 진행
     - 정수를 하나를 입력 받아 그 수의 백의 자리 이하를 버리는 코드를 작성하세요.
